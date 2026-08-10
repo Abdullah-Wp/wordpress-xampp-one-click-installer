@@ -5,6 +5,7 @@ A lightweight Windows desktop app that installs a fresh WordPress site in XAMPP 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 [![WordPress](https://img.shields.io/badge/WordPress-Local%20Installer-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Python syntax check](https://github.com/Abdullah-Wp/wordpress-xampp-one-click-installer/actions/workflows/python-check.yml/badge.svg)](https://github.com/Abdullah-Wp/wordpress-xampp-one-click-installer/actions/workflows/python-check.yml)
 
 Created by [AbdullahWp.com](https://abdullahwp.com/) — WordPress, Elementor, WooCommerce, and custom website development.
 
@@ -124,6 +125,7 @@ Confirm Apache is running in XAMPP and that its configured HTTP port is availabl
 ├── app.py                           # Installer application
 ├── build.bat                        # Windows build command
 ├── WordPress-XAMPP-Installer.spec   # PyInstaller configuration
+├── .github/workflows/               # Automated syntax validation
 ├── .gitignore                       # Generated and local-only files
 └── README.md                        # Project documentation
 ```
@@ -135,4 +137,3 @@ Bug reports and focused pull requests are welcome. Please avoid committing gener
 ## Author
 
 [AbdullahWp.com](https://abdullahwp.com/) provides professional WordPress development, redesign, migration, Elementor, WooCommerce, performance optimization, maintenance, and custom functionality.
-
