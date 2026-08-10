@@ -5,6 +5,7 @@ A lightweight Windows desktop app that installs a fresh WordPress site in XAMPP 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 [![WordPress](https://img.shields.io/badge/WordPress-Local%20Installer-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python syntax check](https://github.com/Abdullah-Wp/wordpress-xampp-one-click-installer/actions/workflows/python-check.yml/badge.svg)](https://github.com/Abdullah-Wp/wordpress-xampp-one-click-installer/actions/workflows/python-check.yml)
 
 Created by [AbdullahWp.com](https://abdullahwp.com/) — WordPress, Elementor, WooCommerce, and custom website development.
@@ -133,6 +134,10 @@ Confirm Apache is running in XAMPP and that its configured HTTP port is availabl
 ## Contributing
 
 Bug reports and focused pull requests are welcome. Please avoid committing generated `build/` or `dist/` files.
+
+## License
+
+This project is free and open-source software released under the [MIT License](LICENSE). You may use, copy, modify, distribute, sublicense, or sell copies of the software subject to the license terms.
 
 ## Author
 
